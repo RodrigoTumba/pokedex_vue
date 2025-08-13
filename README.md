@@ -1,5 +1,27 @@
-# Vue 3 + Vite
+# Pokedex Vue
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este proyecto es una Pokédex desarrollada con **Vue 3** y **Vite**, que consume datos de la API de Pokémon para mostrar información de distintas especies.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🚀 Tecnologías utilizadas
+
+- [Vue 3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [PokéAPI](https://pokeapi.co/)
+
+## 📦 Instalación
+
+Clonar el repositorio:
+```bash
+git clone https://github.com/RodrigoTumba/pokedex_vue.git
+
+## 📦 Requisitos previos
+
+Asegúrate de tener instalado:
+
+- [Node.js](https://nodejs.org/) versión 16 o superior
+- [npm](https://www.npmjs.com/) o [yarn](https://yarnpkg.com/)
+
+## 📦 Instalar dependencias necesarias para el proyecto:
+
+-npm install vue-router axios
+-npm install vuetify
